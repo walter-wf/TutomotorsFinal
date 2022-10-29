@@ -1,0 +1,17 @@
+.footer {
+    height: 50px;
+    margin-bottom: auto;
+    background-color: rgb(17, 16, 16);
+  }
+    
+  .footer-container{
+    display: flex;
+    max-width: 1000px; 
+    margin: 0 auto;
+    justify-content: center;
+    bottom: 0;
+  }
+
+  p {
+    color: white;
+  }
