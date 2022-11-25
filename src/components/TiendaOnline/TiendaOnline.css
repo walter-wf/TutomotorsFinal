@@ -1,0 +1,37 @@
+
+.Visita-nuestra-tienda {
+  height: 300px;
+  padding: 5px 10px 5px 10px;
+}
+
+.imagen {
+  max-width: 30%;
+  min-height: auto;
+  max-height: auto;
+  padding: 5px 10px 5px 10px;
+  height: 300px;
+  display: flex;
+  float: right;
+}
+
+.TiendaOnline {
+  padding: 5px 10px 5px 10px;
+  justify-content: center;
+  text-align: center;
+}
+
+.compraonline{
+  background-color: #0082c8;
+  font-size: 20px;
+  font-weight: 500;
+  padding: 15px 25px 20px 25px;
+  box-shadow: 2px 2px 3px #999;
+  color: #FFF;
+  width: 260px;
+  height: 50px;
+  border-radius: 10px;
+  box-shadow: 2px 2px 3px #999;
+  justify-content: center;
+  margin: 0px auto;
+  align-items: start;
+}

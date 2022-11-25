@@ -1,0 +1,135 @@
+
+.electronica {
+    border: solid black 1px;
+    border-radius: 5px 5px 5px 5px;
+    width: 300px;
+    height: 300px;
+    border-width: 2px 2px 2px 2px;
+    border-color:grey;
+    margin: 5px 5px 5px 5px;
+    transition: all;
+    padding: 15px 15px 15px 15px;
+    text-align: justify;
+    color: #0083cc;
+    font-size: 20px; 
+    float: left;
+    
+}
+
+.imagen-electronica {
+    width: 50%;
+    height: 50%;
+    
+}
+
+.mecanica {
+    border: solid black 1px;
+    border-radius: 5px 5px 5px 5px;
+    width: 300px;
+    height: 300px;
+    border-width: 2px 2px 2px 2px;
+    border-color:grey;
+    margin: 5px 5px 5px 5px;
+    transition: all;
+    padding: 15px 15px 15px 15px;
+    text-align: justify;
+    color: #0083cc;
+    font-size: 20px;
+    float: left;
+    
+}
+
+.imagen-mecanica {
+    width: 50%;
+    height: 50%;
+    
+}
+
+.inyeccion {
+    border: solid black 1px;
+    border-radius: 5px 5px 5px 5px;
+    width: 300px;
+    height: 300px;
+    border-width: 2px 2px 2px 2px;
+    border-color:grey;
+    margin: 5px 5px 5px 5px;
+    transition: all;
+    padding: 15px 15px 15px 15px;
+    text-align: justify;
+    color: #0083cc;
+    font-size: 20px;
+    float: left;
+}
+
+.imagen-inyeccion {
+    width: 50%;
+    height: 50%;
+    
+}
+
+.suspension {
+    border: solid black 1px;
+    border-radius: 5px 5px 5px 5px;
+    width: 300px;
+    height: 300px;
+    border-width: 2px 2px 2px 2px;
+    border-color:grey;
+    margin: 5px 5px 5px 5px;
+    transition: all;
+    padding: 15px 15px 15px 15px;
+    text-align: justify;
+    color: #0083cc;
+    font-size: 20px;
+    float: left;
+    
+   
+}
+
+.imagen-suspension {
+    width: 50%;
+    height: 50%;
+ }
+
+.AC {
+    border: solid black 1px;
+    border-radius: 5px 5px 5px 5px;
+    width: 300px;
+    height: 300px;
+    border-width: 2px 2px 2px 2px;
+    border-color:grey;
+    margin: 5px 5px 5px 5px;
+    transition: all;
+    padding: 15px 15px 15px 15px;
+    text-align: justify;
+    color: #0083cc;
+    font-size: 20px;
+    float: left;
+    
+}
+
+.imagen-ac {
+    width: 50%;
+    height: 50%;
+ }
+
+
+.limpieza {
+    border: solid black 1px;
+    border-radius: 5px 5px 5px 5px;
+    width: 300px;
+    height: 300px;
+    border-width: 2px 2px 2px 2px;
+    border-color:grey;
+    margin: 5px 5px 5px 5px;
+    transition: all;
+    padding: 15px 15px 15px 15px;
+    text-align: justify;
+    color: #0083cc;
+    font-size: 20px;
+    float: left;
+}
+
+.imagen-limpieza {
+    width: 50%;
+    height: 50%;
+ }

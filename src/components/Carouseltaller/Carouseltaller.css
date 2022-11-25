@@ -1,0 +1,9 @@
+
+.imagen13 {
+    width: 300 px;
+    height: 700px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+};

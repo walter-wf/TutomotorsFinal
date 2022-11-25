@@ -1,0 +1,29 @@
+* {
+    padding: 0;
+    margin: 0;
+    border-style: border-box;
+    
+}
+
+.imagen-1 {
+    width: 100%;
+    height: auto;
+    box-sizing: border-box;
+    border: solid, 10px;
+    padding: 5px;
+}
+
+.imagen-2 {
+    width: 100%;
+    height:auto;
+    box-sizing: border-box;
+    border: solid, 10px;
+    padding: 5px;
+}
+.imagen-3 {
+    width: 100%;
+    height: auto;
+    box-sizing: border-box;
+    border: solid, 10px;
+    padding: 5px;
+}
