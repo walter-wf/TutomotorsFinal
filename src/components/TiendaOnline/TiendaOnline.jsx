@@ -8,7 +8,7 @@ const TiendaOnline = () => {
     <div className="TiendaOnline">
       <img className="imagen" src={repuestos1}  />
       <div className="Visita-nuestra-tienda">
-        <h1>Visita Nuestra tienda</h1>
+        <h1>Visita Nuestra Tienda</h1>
         <p className="Testimonio">
           Contamos con variedad de repuestos para satisfacer todos los
           requerimientos del carro.

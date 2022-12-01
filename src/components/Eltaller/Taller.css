@@ -1,0 +1,12 @@
+.contenedorTaller {
+    height: 300px;
+    width: 100%;
+}
+
+.contenedor-imagenes {
+    height: 300px;
+    width: 100%;
+}
+.oficina-1 {
+ height: fit-content;
+}

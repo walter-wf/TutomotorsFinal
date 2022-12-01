@@ -1,4 +1,9 @@
 
+.contenedor-servicios{
+    height: 300px;
+    width: 100%;
+   
+}
 .electronica {
     border: solid black 1px;
     border-radius: 5px 5px 5px 5px;

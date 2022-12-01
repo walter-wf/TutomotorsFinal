@@ -9,7 +9,8 @@ import accesorios from "./accesorios.png";
 
 const ServiciosTaller = () => {
   return (
-    <>
+    
+    <div className="contenedor-servicios">
       <div className="electronica"> <img className="imagen-electronica" src= {electronica} />
       ELECTRÓNICA
           <ul>
@@ -59,8 +60,8 @@ const ServiciosTaller = () => {
           <li>Limpieza de Chasis</li>
         </ul>
       </div>
-    </>
+      </div>
   );
-};
+ };
 
 export default ServiciosTaller;

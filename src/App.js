@@ -7,6 +7,7 @@ import TiendaOnline from "./components/TiendaOnline/TiendaOnline.jsx";
 import Servicios from "./components/Servicios/Servicios";
 import Ubicacion from "./components/Ubicacion/Ubicacion";
 import ServiciosTaller from "./components/ServiciosTaller/Serviciostaller.js";
+import Eltaller from "./components/Eltaller/Taller";
 
 
 
@@ -26,6 +27,7 @@ function App() {
         <TiendaOnline />
         <Servicios />
         <ServiciosTaller />
+        <Eltaller />
         <Ubicacion />
 
         <Footer />
